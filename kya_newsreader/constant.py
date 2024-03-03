@@ -1,0 +1,1 @@
+GOOGLE_CACHE = "http://webcache.googleusercontent.com/search?q=cache:"

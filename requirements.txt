@@ -1,0 +1,5 @@
+requests
+selenium
+newspaper3k
+selenium-stealth
+beautifulsoup4
